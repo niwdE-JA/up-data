@@ -1,2 +1,2 @@
 # up-data
-A tool to sped up workspace file management.
+A tool to speed up workspace file management.
